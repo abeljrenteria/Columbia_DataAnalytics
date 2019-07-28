@@ -1,1 +1,1 @@
-# Columbia_DataAnalytics
+# Columbia Data Analytics Coursework
